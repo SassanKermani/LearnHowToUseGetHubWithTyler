@@ -1,1 +1,37 @@
-Sassan 
+Git init
+//inishalise
+
+Git add -A
+/adds everything to git 
+//A is how you adda everything
+
+Git commit -m “alsjdf;ljf”
+//this commits the git
+
+git remote add origin https://github.com/SassanKermani/LearnHowToUseGetHubWithTyler.git;
+
+
+
+
+git push -u origin master
+
+
+Git push origin masteGit init
+//inishalise
+
+Git add -A
+/adds everything to git 
+//A is how you adda everything
+
+Git commit -m “alsjdf;ljf”
+//this commits the git
+
+git remote add origin https://github.com/SassanKermani/LearnHowToUseGetHubWithTyler.git;
+
+
+
+
+git push -u origin master
+
+
+Git push origin masteSassan 
